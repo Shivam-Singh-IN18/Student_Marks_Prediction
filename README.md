@@ -1,13 +1,53 @@
-# Projects_
-This repository contains my B.Tech projects in Electronics & Telecommunication Engineering.
+# 👋 Hi, I'm Shivam Singh
 
-## Projects
-- ECG Prototype using ARM Cortex M7  
-- RGB Light Control using IR Remote  
+## 🚀 Data Analytics & Data Science Enthusiast
 
-## Technologies Used
-- Arduino  
-- Raspberry Pi  
-- Embedded Systems  
-- C/C++  
-- Electronics
+---
+
+### 💡 About Me
+
+Hey there! I'm a curious mind who enjoys exploring data and uncovering meaningful insights from it.
+I love building projects, solving problems, and continuously improving my skills in analytics and machine learning.
+
+* 🔍 Interested in Data Analytics, Machine Learning & AI
+* 📊 Skilled in Python, SQL, Power BI & Data Visualization
+* 🧠 Always learning and experimenting with real-world datasets
+* 🎯 Goal: Become a Data Scientist and build impactful solutions
+
+---
+
+### 🛠️ Tech Stack
+
+💻 **Languages:**
+Python | SQL
+
+📚 **Libraries:**
+NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn
+
+📊 **Tools:**
+Power BI | Excel
+
+---
+
+### 📌 Featured Projects
+
+🔹 **Netflix Data Analysis**
+
+* Data cleaning, visualization & insights using Python
+
+🔹 **Student Marks Prediction**
+
+* Regression model with ~85% accuracy
+
+🔹 **ECG Arrhythmia Detection**
+
+* ML model deployed on Raspberry Pi
+
+---
+
+### 📫 Connect With Me
+
+📧 Email: [shivamsingh181803@gmail.com](mailto:shivamsingh181803@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/shivam-singh-68062b25b
+
+
