@@ -36,10 +36,4 @@ The model analyzes factors like study hours, attendance, and past scores to pred
 
 ---
 
-## 🚀 Future Scope
 
-* Hyperparameter tuning
-* Add more features (lifestyle, behavior)
-* Deploy as a web application
-
----
